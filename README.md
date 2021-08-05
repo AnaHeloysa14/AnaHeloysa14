@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaHeloysa14
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on with projects and interfaces
+- 💞️ I’m looking to collaborate  with projects and interfaces
 - 📫 How to reach me ...
 
 <!---
